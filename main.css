@@ -1,0 +1,110 @@
+body{
+  /*color:green;*/
+  padding-bottom: 70px;
+  color: #646568;
+  background-image: url(http://www.freepptbackgrounds.net/wp-content/uploads/2013/01/Light-Blue-Effect-PPT-Backgrounds-1024x768.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-underline-position: below;
+}
+/*.links-footer{
+  font-style: italic;
+  color:#646568;
+}
+.sticky{
+  text-align: center;
+  color: #a93d36;
+}*/
+/*img {*/
+    /*position:absolute;*/
+    /*top: 50%;
+    left: 50%;
+    width: 120px;
+    height: 120px;*/
+    /*margin:-60px 0 0 -60px;*/
+    /*-webkit-animation:spin 50s linear infinite;
+    -moz-animation:spin 50s linear infinite;
+    animation:spin 50s linear infinite;
+}*/
+/*@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+*/
+/*footer{
+
+    display: block;
+    height: auto;
+    min-width: 960px;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+    border-top: 3px solid #0099e6;
+    color: rgba(255, 255, 255, 0.7);
+    clear: both;
+    font-size: 12px;
+    padding: 45px 0;
+    text-align: center;
+    line-height: 21px;
+    display: table;
+}*/
+.container-address{
+  text-align: center;
+
+}
+
+.bottom-footer{
+  border-top: 1px solid #b2b2b2;
+  margin-top:10px;
+  padding-top:10px;
+  color: #b2b2b2;
+  clear:left;
+}
+.footer-nav{
+  text-align: center;
+  list-style: none;
+
+}
+.footer-nav li{
+  display: inline;
+
+
+}
+.footer-nav li:not(:first-child):before
+{
+  content: '|';
+  padding: 0px 10px;
+}
+.footer-nav a{
+  color: #a93d36;
+}
+.footer-nav a:hover{
+  color:grey;
+  text-decoration: none;
+}
+.copyright{
+  text-align: center;
+  color: #a93d36;
+}
+
+.row{
+  color: #a93d36;
+}
+
+.address1{
+  float:left;
+  margin: 0px 0px 0px 150px;
+
+}
+
+.address2{
+  float:right;
+  margin: 0px 200px 0px 0px;
+}
+.address-font{
+  /*margin:0px 0px 0px 200px;*/
+}
+
+h2.head{
+  color: #646568;
+  text-align:center;
+}
